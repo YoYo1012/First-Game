@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-public class HunterCtrl : MonoBehaviour
+public class HunterCtrl : MonoBehaviour //弓箭控制
 {
     Animator animator;
     UserCtrl ctrl;
