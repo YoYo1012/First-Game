@@ -15,22 +15,22 @@ https://youtu.be/nAZyKmvDEOE
 * 套入自製場景測試
 ## 參考資料
 * 顯示傷害<br />
-[程式連結]:(./Scripts/MagicAI/GetDamage.cs)<br />
+[程式連結](./Scripts/MagicAI/GetDamage.cs)<br />
 參考:https://cindyalex.pixnet.net/blog/post/251373467-unity-c%23-%E5%82%B7%E5%AE%B3%E5%AD%97%E9%AB%94%E5%91%88%E7%8F%BE%E6%95%99%E5%AD%B8<br />
 * Blend Tree應用瞄準移動<br />
 參考:https://www.bilibili.com/video/BV1q4411G79y?from=search&seid=7269624033905667997<br />
 * 弓箭手攻擊<br />
 官方教程:https://www.youtube.com/watch?v=537B1kJp9YQ&t=357s<br />
-[弓箭手程式連結]:(./Scripts/Hunter/)<br />
+[弓箭手程式連結](./Scripts/Hunter/)<br />
 * 技能冷卻<br />
-[程式連結]:(./Scripts/Warrior/SkillIitem.cs)<br />
+[程式連結](./Scripts/Warrior/SkillIitem.cs)<br />
 參考:https://www.youtube.com/watch?v=uF7ypBJ1biE&list=WL&index=12&t=255s<br />
 * 腳步聲<br />
 參考:https://www.youtube.com/watch?v=Bnm8mzxnwP8<br />
 * 場景讀取<br />
 [程式連結](./Scripts/Game/GameButton.cs)<br />
 參考:https://jerrard-liu.blogspot.com/2015/06/LoadingScreen.html<br />
-[角色創建]:(./Scripts/Game/CreateCharacter.cs)
+[角色創建](./Scripts/Game/CreateCharacter.cs)
 
 ## 遊戲截圖
 ![Example screenshot](./遊戲畫面.png)
