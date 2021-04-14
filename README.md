@@ -18,6 +18,7 @@ https://youtu.be/nAZyKmvDEOE
 [程式連結](./Scripts/MagicAI/GetDamage.cs)<br />
 參考:https://cindyalex.pixnet.net/blog/post/251373467-unity-c%23-%E5%82%B7%E5%AE%B3%E5%AD%97%E9%AB%94%E5%91%88%E7%8F%BE%E6%95%99%E5%AD%B8<br />
 * Blend Tree應用瞄準移動<br />
+(./設定/弓箭手瞄準移動.png)
 參考:https://www.bilibili.com/video/BV1q4411G79y?from=search&seid=7269624033905667997<br />
 * 弓箭手攻擊<br />
 官方教程:https://www.youtube.com/watch?v=537B1kJp9YQ&t=357s<br />
@@ -31,12 +32,6 @@ https://youtu.be/nAZyKmvDEOE
 [程式連結](./Scripts/Game/GameButton.cs)<br />
 參考:https://jerrard-liu.blogspot.com/2015/06/LoadingScreen.html<br />
 [角色創建](./Scripts/Game/CreateCharacter.cs)
-
-## 遊戲截圖
-![Example screenshot](./遊戲畫面.png)
-
-# Code Examples
-[Code Example](./跑酷程式.pdf)
 ## 未實現功能
 1.背包
 2.掉落道具
