@@ -32,6 +32,7 @@
 * 場景讀取<br />
 程式連結:<br />
 https://jerrard-liu.blogspot.com/2015/06/LoadingScreen.html<br />
+角色創建:(./Scripts/Game/CreateCharacter.cs)
 
 ## 遊戲截圖
 ![Example screenshot](./遊戲畫面.png)
