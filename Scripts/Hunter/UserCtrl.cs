@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class UserCtrl : MonoBehaviour
+public class UserCtrl : MonoBehaviour //移動控制
 {
     [SerializeField] GameObject freeLookCamera;
     Character character;
