@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Character : MonoBehaviour
+public class Character : MonoBehaviour//角色移動
 {
     [SerializeField] float jumpPower = 8;//跳躍力
     [SerializeField] float gravityMultiplier = 2;//重力
