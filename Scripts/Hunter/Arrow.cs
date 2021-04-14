@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Arrow : MonoBehaviour
+public class Arrow : MonoBehaviour//箭矢傷害碰撞&發射力度
 {
     float damage = 200;//弓箭傷害
 
