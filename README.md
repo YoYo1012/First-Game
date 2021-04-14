@@ -31,7 +31,8 @@ https://youtu.be/nAZyKmvDEOE
 * 場景讀取<br />
 [程式連結](./Scripts/Game/GameButton.cs)<br />
 參考:https://jerrard-liu.blogspot.com/2015/06/LoadingScreen.html<br />
-[角色創建](./Scripts/Game/CreateCharacter.cs)
+角色創建<br />
+[程式連結](./Scripts/Game/CreateCharacter.cs)
 ## 未實現功能
 1.背包
 2.掉落道具
